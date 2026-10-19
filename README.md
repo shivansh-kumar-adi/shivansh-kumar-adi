@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivansh07adi-cloud&label=Profile%20Views&color=4285F4&style=for-the-badge&base=987" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shivansh-kumar-adi&label=Profile%20Views&color=4285F4&style=for-the-badge&base=987" alt="Profile Views" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ### 🏙️ 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivansh07adi-cloud/shivansh07adi-cloud/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/shivansh-kumar-adi/shivansh-kumar-adi/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ---
@@ -89,9 +89,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivansh07adi-cloud/shivansh07adi-cloud/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivansh07adi-cloud/shivansh07adi-cloud/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/shivansh07adi-cloud/shivansh07adi-cloud/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivansh-kumar-adi/shivansh-kumar-adi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivansh-kumar-adi/shivansh-kumar-adi/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/shivansh-kumar-adi/shivansh-kumar-adi/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -100,16 +100,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivansh07adi-cloud&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivansh-kumar-adi&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shivansh07adi-cloud&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=shivansh-kumar-adi&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivansh07adi-cloud&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh07adi-cloud&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivansh-kumar-adi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-kumar-adi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
