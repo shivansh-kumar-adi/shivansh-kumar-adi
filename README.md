@@ -28,7 +28,7 @@
 
 - 🔭 Currently a **Software Engineer @ Nutrithy Wellness** (dev work + hands-on QA — test planning, manual/automated testing, bug tracking)
 - 🧩 Building across the **ME(A/R/V)N stack** — MongoDB, Express, Angular/React/Vue, Node.js — along with Next.js and the Gemini API
-- 🌱 Currently learning: **operating system development** and going deeper into low-level systems
+- 🌱 Currently learning: **operating system development**, **embedded systems**, **ML workflows & MLOps**, and going deeper into low-level systems
 - 🏆 National-level Math Olympiad (IOQM) qualifier, Top-44 national rank in the Indian National Astronomy Olympiad, 1st Prize at the Analytics Hackathon — India Conference at Harvard, and Top-50 ranker in Google's The Big Code Challenge
 - 💬 Ask me about: ME(A/R/V)N stack, computer vision, QA/testing practices, operating systems, software development, or API development
 - ⚡ Fun fact: went from olympiad math/astronomy to building a media controller operated entirely by hand gestures
@@ -39,11 +39,24 @@
 
 | Category | Stack |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c" /> |
-| **Frontend & Backend** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" /> |
-| **Tools & Environment** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> |
-| **Cloud & Deploy** | <img src="https://skillicons.dev/icons?i=aws,azure,vercel" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase" /> |
+| **Data & Computer Vision** | <img src="https://skillicons.dev/icons?i=opencv" /> <img src="assets/numpy.svg" width="60" height="60" alt="NumPy" /> <img src="assets/pandas.svg" width="60" height="60" alt="pandas" /> |
+| **Tools & Environment** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" /> |
+| **Cloud & Deploy** | <img src="https://skillicons.dev/icons?i=aws,azure,vercel" /> <img src="assets/oci.svg" width="60" height="60" alt="OCI" /> |
+
+---
+
+### 💼 Where I Fit
+
+- **Build:** Product Engineer · Full-Stack · Backend / API · Forward Deployed Engineer
+- **Data:** Data Engineer · Data Analyst · Data Governance Analyst
+- **Quality & Ops:** QA / Test Engineer · DevOps Engineer
+- **Systems & AI:** Systems Engineer · ML / Computer Vision · Automation & Bots
+
+<p align="center"><em>🌱 Currently learning: operating system development, embedded systems, ML workflows &amp; MLOps, and low-level systems</em></p>
 
 ---
 
